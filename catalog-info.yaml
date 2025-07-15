@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: arjun-mindsprint-udemy/node-app-5
     backstage.io/techdocs-ref: dir:.
+    'jenkins.io/job-full-name': node-app-test-folder/node-app-5
 spec:
   type: service
   owner: development
